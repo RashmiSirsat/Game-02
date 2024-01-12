@@ -1,1 +1,1 @@
-# Game-02
+Spock Rock Game
